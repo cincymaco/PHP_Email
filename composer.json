@@ -1,0 +1,15 @@
+{
+  "autoload": {
+    "files": [
+      "functions.php"
+    ]
+  },
+  "require": {
+    "php": "^7.1",
+    "swiftmailer/swiftmailer": "^6.0",
+    "roave/security-advisories": "dev-master",
+    "vlucas/phpdotenv": "^2.4",
+    "twig/twig": "^2.4",
+    "monolog/monolog": "^1.23"
+  }
+}
